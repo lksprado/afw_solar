@@ -12,7 +12,7 @@ This repository is a snippet of my Airflow enviroment, it contains the necessary
 - Selenium
 
 ### FILE DESCRIPTIONS
-`json_files`: This directory stores the extracted json files;\
+`json_files`: This directory stores the extracted json files, as a landing zone;\
 `hourly24_production_2024-08-15.json`: Json file sample; \
 `missing_dates.csv`: This CSV stores the dates between latest date found in DW raw table; \
 
