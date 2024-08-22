@@ -30,7 +30,7 @@ Each task calls for a python module for specific purposes:
 
 ### WORKFLOW AND ARCHITETURE
 
-![alt text](afw_solar2.png)
+![alt text](images/afw_solar2.png)
 
 ### DATA
 
