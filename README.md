@@ -8,6 +8,8 @@ I will keep adding more features to make the project more robust and closer to r
 
 This repository is a snippet of my Airflow enviroment, it contains the necessary files and folder structure for showcasing only.
 
+The data analysis can be seen here: https://public.tableau.com/authoring/HOMESOLARPANELPRODUCTION2021-2024/Painel1#1
+
 ### TOOLS
 - Docker: For containerizing the applications environments bellow;  
 - Airflow 2.9.3: Orchestrates the daily data retrieval tasks;  
@@ -52,3 +54,6 @@ Each task calls for a python module for specific purposes:
 `energy_processed` contains the hourly energy kwh 
 
 ![alt text](images/energy.png)
+
+
+![alt text](images/DAILY%20HEATMAP.png)
